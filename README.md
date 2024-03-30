@@ -1,0 +1,2 @@
+# Stratzy-App
+Search screen
